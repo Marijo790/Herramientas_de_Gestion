@@ -1,0 +1,2 @@
+Objetivo General:
+Desarrollar un Sistema de Alfabetización Basado en Inteligencia Artificial (SABIA) que contribuya al proceso de enseñanza y aprendizaje de la lectura y escritura, mediante herramientas interactivas y adaptativas que permitan fortalecer las habilidades de alfabetización de los usuarios de manera personalizada, accesible y eficiente.
