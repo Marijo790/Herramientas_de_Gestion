@@ -1,0 +1,17 @@
+ARQUITECTURA DEL SISTEMA SABIA
+
+El sistema SABIA utiliza una arquitectura por capas que permite separar las responsabilidades de cada componente para facilitar el mantenimiento, la escalabilidad y la seguridad del sistema.
+
+1. Capa de Presentación (Frontend)
+Desarrollada en Flutter. Permite a los usuarios interactuar con la aplicación mediante interfaces gráficas para registrar, consultar y administrar información de alumnos alfabetizados.
+
+2. Capa de Servicios (Model Service)
+Implementada con Node.js. Se encarga de procesar las solicitudes recibidas desde el frontend, aplicar las reglas de negocio y gestionar la comunicación con la base de datos.
+
+3. Capa de Datos
+Utiliza PostgreSQL para almacenar la información de usuarios, docentes y alumnos alfabetizados. Garantiza la persistencia y consulta eficiente de los datos.
+
+4. Herramientas de Apoyo
+GitHub para control de versiones, Postman para pruebas de la API y Swagger para documentación de los servicios.
+
+Esta arquitectura permite una comunicación organizada entre los diferentes componentes del sistema, facilitando futuras actualizaciones y mejoras.
