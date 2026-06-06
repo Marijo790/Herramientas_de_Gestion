@@ -1,0 +1,13 @@
+SABIA confirma que la integración de la metodología pedagógica de Paulo Freire con tecnologías de inteligencia artificial adaptativa permite abordar eficazmente el rezago educativo en jóvenes y adultos en México. El objetivo general se cumple parcialmente en esta fase inicial: SABIA ofrece un entorno personalizado, intuitivo y multimedia que mejora significativamente las habilidades de lectura y escritura, al adaptar el ritmo y contenido mediante redes neuronales artificiales, ejercicios interactivos con sonidos e imágenes, y un seguimiento continuo que optimiza el aprendizaje individual. Esto genera mayor comprensión, retención y motivación en comparación con métodos tradicionales, fortaleciendo la comprensión lectora y promoviendo una alfabetización significativa y contextualizada.
+Los objetivos específicos se sustentan en los hallazgos cualitativos (entrevistas) y cuantitativos preliminares: las RNA y el ajuste adaptativo aceleran el avance; los recursos multimedia incrementan la participación; y el enfoque personalizado eleva la efectividad en adultos. El desarrollo ágil bajo Scrum aseguró entregas iterativas, viabilidad técnica (Ionic, Angular, Docker) y alineación con necesidades reales identificadas.
+En síntesis, SABIA se posiciona como una herramienta inclusiva y complementaria a programas como el IVEA, con potencial transformador para reducir el analfabetismo funcional y ampliar oportunidades educativas y laborales.
+Recomendaciones
+Realizar pruebas piloto con mayor número de usuarios para validar impactos a mediano plazo.
+Fortalecer la accesibilidad offline y la integración con dispositivos de bajo costo.
+Involucrar a los educadores del IVEA en iteraciones continuas.
+Futuras líneas de investigación
+Evaluación longitudinal del impacto en inclusión laboral.
+Incorporación de procesamiento de lenguaje natural en español mexicano para diálogos conversacionales.
+Comparación controlada con otros sistemas de alfabetización digital.
+
+
