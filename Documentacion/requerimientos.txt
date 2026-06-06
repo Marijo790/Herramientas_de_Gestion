@@ -1,0 +1,36 @@
+REQUERIMIENTOS DEL SISTEMA
+Bitácora de Actividades - App Flutter
+
+Requerimientos Funcionales:
+
+RF-01: Registro de Eventos
+       El sistema debe permitir registrar eventos con fecha, hora, tipo y descripción.
+
+RF-02: Clasificación por Tipo
+       El sistema debe clasificar eventos en 7 categorías: login, register, retoCompletado, vozCambiada, navegacion, puntosGanados, error.
+
+RF-03: Visualización de Historial
+       El sistema debe mostrar una lista cronológica de todos los eventos registrados.
+
+RF-04: Persistencia Local
+       El sistema debe guardar los eventos en almacenamiento local (Shared Preferences).
+
+RF-05: Iconos y Colores
+       El sistema debe asignar un icono y color único a cada tipo de evento.
+
+RF-06: Formato de Fecha
+       El sistema debe mostrar la fecha en formato DD/MM/AAAA - HH:MM:SS.
+
+Requerimientos No Funcionales:
+
+RNF-01: Rendimiento
+       El tiempo de respuesta no debe superar los 2 segundos.
+
+RNF-02: Usabilidad
+       La interfaz debe ser intuitiva y fácil de usar.
+
+RNF-03: Compatibilidad
+       La app debe funcionar en Android e iOS.
+
+RNF-04: Mantenibilidad
+       El código debe estar organizado y documentado.
