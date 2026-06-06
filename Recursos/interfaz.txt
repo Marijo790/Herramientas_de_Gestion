@@ -1,0 +1,29 @@
+INTERFAZ DE USUARIO - Bitácora de Actividades
+
+Pantallas del sistema:
+
+1. Pantalla Principal (LogScreen)
+   - Muestra lista de eventos registrados
+   - Cada evento tiene: ícono, mensaje, fecha/hora
+   - Orden: del más reciente al más antiguo
+   - Scroll vertical para ver historial completo
+
+2. Elementos de la interfaz:
+   - AppBar: Título "Bitácora de Actividades"
+   - Tarjetas (Cards): Cada evento en una tarjeta
+   - Iconos: Diferente según tipo de evento
+   - Colores: Cada tipo de evento tiene color distintivo
+
+3. Colores por tipo de evento:
+   - Login: Verde (#4CAF50)
+   - Register: Azul (#2196F3)
+   -  Reto: Naranja (#FF9800)
+   -  Voz: Morado (#9C27B0)
+   -  Navegación: Celeste (#00BCD4)
+   -  Puntos: Amarillo (#FFD700)
+   -  Error: Rojo (#F44336)
+
+4. Interacciones del usuario:
+   - Tap en evento: Ver detalles completos
+   - Pull to refresh: Recargar lista
+   - Scroll: Navegar por el historial
